@@ -1,1 +1,0 @@
-import{c as r,j as t,a as e}from"./boxicons-DfVLYmNE.js";import{S as o}from"./Sorry-QABPPh4a.js";import"./Section-D6jxFhvn.js";r.createRoot(document.getElementById("root")).render(t.jsx(e.StrictMode,{children:t.jsx(o,{})}));
