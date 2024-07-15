@@ -1,0 +1,1 @@
+import{c as e,j as t,a as o}from"./style-31MncEWB.js";import{C as r}from"./Cake-CLnsyrfZ.js";import"./Live_100-BCWiuWEn.js";e.createRoot(document.getElementById("root")).render(t.jsx(o.StrictMode,{children:t.jsx(r,{})}));
